@@ -3,7 +3,7 @@ This is kaggle's capstone project.
 How to Run
 Setup Environment
 # Clone the repository
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/Aman-khare/kaggle-project-.git
 
 # Install dependencies
 pip install -r requirements.txt
